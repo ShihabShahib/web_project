@@ -1,5 +1,9 @@
 Project: School Management System . 
 
+Other team member-->
+1. Raiyan Islam---> https://github.com/rayman863
+2. Forhad Uddin
+
 4types of user will login to the system- 
 1.Super Admin-----------> id: 20-0001-01 and pass: raiyan
 2.School Admin----------> id: 20-0001-02 and pass: raiyan

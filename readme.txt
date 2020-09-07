@@ -1,4 +1,6 @@
-Project: School Management System . 
+Project: School Management System .
+It's a web application based project. 
+Keywords: PHP, HTML, CSS, Bootstrap, XAMPP, MYSQL, Apache, VSCode
 
 Other team member-->
 1. Raiyan Islam---> https://github.com/rayman863
